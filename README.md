@@ -1,2 +1,2 @@
-# NextJS-Projects-This repository is for the prOjcts I built With NextJS
-1- Cofee Store finder and upvote
+# NextJS-Projects-This repository is for the projects I built With NextJS
+1- Coffee Store finder and upvote
